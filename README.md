@@ -1,4 +1,4 @@
-# TP4 - Gestion de Machines et Salles avec Hibernate
+# Gestion de Machines et Salles avec Hibernate
 
 ![Java](https://img.shields.io/badge/Java-21-orange)
 ![Hibernate](https://img.shields.io/badge/Hibernate-5.6.9-green)
